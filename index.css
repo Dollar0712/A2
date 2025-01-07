@@ -21,11 +21,15 @@
 
 body {
   height: 100vh;
-  display: flex;
-  flex-wrap: wrap;
   padding: 30px;
+}
+
+main {
+  height: 100%;
+  display: flex;
   justify-content: flex-start;
   align-content: flex-start;
+  flex-wrap: wrap;
   gap: 30px;
 }
 
