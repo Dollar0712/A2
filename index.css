@@ -29,6 +29,9 @@ body {
   gap: 30px;
 }
 
+/*
+    CSS for card container
+*/
 .card {
   position: relative;
   max-width: 800px;
@@ -80,6 +83,9 @@ body {
      object-fit: cover;
 }
 
+/*
+    Background color of different card container
+*/
 .card-1 {
   background: linear-gradient(120deg, rgba(119, 140, 234, 0.9) 45%, rgba(156, 139, 208, 0.6) 100%);
 }
